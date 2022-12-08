@@ -6,7 +6,7 @@ echo -e "\t\t\t Example: sudo $0 \n"
 exit 1
 else
 echo -e "\n#######################################"
-echo -e "# ARP Poisoning started #"
+echo -e "# Eavesdropping started #"
 echo -e "#######################################"
 echo -e " Coded By: Sudheer Bandaru"
 echo -e " Date Released: 12/05/2022"
