@@ -10,7 +10,7 @@ echo -e "# ARP Poisoning started #"
 echo -e "#######################################"
 echo -e " Coded By: Sudheer Bandaru"
 echo -e " Date Released: 12/05/2022"
-echo -e " Github: "
+echo -e " Github: https://github.com/bandarusudheer/ARP-Poisoning/edit/main/ARP_Poisoner.sh"
 echo -n "Please Enter Target's IP: "
 read targetIP
 echo -n "Please Enter Gateway's IP: "
