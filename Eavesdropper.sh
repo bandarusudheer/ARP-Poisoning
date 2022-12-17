@@ -8,7 +8,7 @@ else
 echo -e "\n#######################################"
 echo -e "# Eavesdropping started #"
 echo -e "#######################################"
-echo -e " Coded By: Sudheer Bandaru"
+echo -e " Coded By: Sudheer Bandaru, Dharma Teja Kollipara, Akhil Kalyanam, Sai Deekshith Mulakala"
 echo -e " Date Released: 12/05/2022"
 echo -e " Github: https://github.com/bandarusudheer/ARP-Poisoning/edit/main/ARP_Poisoner.sh"
 echo -n "Please Enter Target's IP: "
